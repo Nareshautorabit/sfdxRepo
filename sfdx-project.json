@@ -1,9 +1,9 @@
 {
     "packageDirectories": [
         {
-            "path": "ModuleForCommit2",
+            "path": "modUpdateChk",
             "default": true,
-            "package": "ModuleForCommit2",
+            "package": "modUpdateChk",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
         }
@@ -12,6 +12,6 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "44.0",
     "packageAliases": {
-        "ModuleForCommit2": "0Ho2I000000KyjVSAS"
+        "modUpdateChk": "0Ho0o000000fxVyCAI"
     }
 }
