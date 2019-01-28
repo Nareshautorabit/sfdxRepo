@@ -1,9 +1,9 @@
 {
     "packageDirectories": [
         {
-            "path": "updateModChk",
+            "path": "jygyjg",
             "default": true,
-            "package": "updateModChk",
+            "package": "jygyjg",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
         }
@@ -12,6 +12,6 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "44.0",
     "packageAliases": {
-        "updateModChk": "0Ho0o000000fxW3CAI"
+        "jygyjg": "0Ho2I000000KyjaSAC"
     }
 }
