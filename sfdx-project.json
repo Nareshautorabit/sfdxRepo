@@ -1,9 +1,9 @@
 {
     "packageDirectories": [
         {
-            "path": "jygyjg",
+            "path": "ModuleDemo",
             "default": true,
-            "package": "jygyjg",
+            "package": "ModuleDemo",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
         }
@@ -12,6 +12,6 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "44.0",
     "packageAliases": {
-        "jygyjg": "0Ho2I000000KyjaSAC"
+        "ModuleDemo": "0Ho0o000000fxWDCAY"
     }
 }
