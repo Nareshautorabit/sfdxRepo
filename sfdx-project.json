@@ -1,9 +1,9 @@
 {
     "packageDirectories": [
         {
-            "path": "rbgrgr",
+            "path": "Mod123548",
             "default": true,
-            "package": "rbgrgr",
+            "package": "Mod123548",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
         }
@@ -12,6 +12,6 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "44.0",
     "packageAliases": {
-        "rbgrgr": "0Ho2I000000KyjfSAC"
+        "Mod123548": "0Ho0b000000GmfnCAC"
     }
 }
