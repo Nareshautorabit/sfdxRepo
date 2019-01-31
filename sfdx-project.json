@@ -1,9 +1,9 @@
 {
     "packageDirectories": [
         {
-            "path": "AutoTestChk",
+            "path": "anotheeChk",
             "default": true,
-            "package": "AutoTestChk",
+            "package": "anotheeChk",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
         }
@@ -12,6 +12,6 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "44.0",
     "packageAliases": {
-        "AutoTestChk": "0Ho0o000000fxWrCAI"
+        "anotheeChk": "0Ho0o000000fxWwCAI"
     }
 }
